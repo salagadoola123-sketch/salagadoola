@@ -138,7 +138,7 @@ class AIResearcher:
 
 ### 🎯 Object Detection
 
-#### [2-Stage Detector 논문 리뷰 (R-CNN 계열)](./papers/이상엽_2-stage_paper_review.pdf)
+#### [2-Stage Detector (R-CNN 계열)](./papers/이상엽_2-stage_paper_review.pdf) 논문 리뷰
 - **주요 내용**
   - R-CNN → Fast R-CNN → Faster R-CNN → Mask R-CNN 진화 과정
   - Selective Search, RPN(Region Proposal Network) 분석
