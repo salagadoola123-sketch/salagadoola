@@ -232,7 +232,7 @@ class AIResearcher:
 **기술 스택**
 - Backend: FastAPI, Python
 - Frontend: React, TypeScript
-- AI/ML: Google Vision API, YOLO-fashion, GPT-4, CLIP, OOTDiffusion
+- AI/ML: Google Vision API, YOLO-fashion, ViT, GPT-4, CLIP, OOTDiffusion
 - Data: BeautifulSoup, Selenium, Scrapy
 - Database: PostgreSQL, FAISS
 - Infra: Docker, AWS
