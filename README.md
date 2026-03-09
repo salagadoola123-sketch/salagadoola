@@ -260,7 +260,7 @@ class AIResearcher:
 ## 🎵 Personal Dev Project
 
 <details>
-<summary><b>🎧 VIBE 가사지 - 실시간 가사 싱크 오버레이 (Click to expand)</b></summary>
+<summary><b>🎧 VIBE 가사지 - 실시간 가사 싱크 오버레이 </b></summary>
 
 <br/>
 
@@ -269,7 +269,7 @@ class AIResearcher:
 **기간**: 2026.03 | **개인 프로젝트**
 
 [![VIBE 가사지 | Chrome 확장으로 실시간 가사 싱크 오버레이 만들기 (OBS 연동)](https://img.youtube.com/vi/1cweE-WapEU/maxresdefault.jpg)](https://youtu.be/1cweE-WapEU)
-
+(Click to expand)
 **프로젝트 개요**
 - VIBE 웹 플레이어의 내부 플레이어 객체를 역공학하여 ms 단위 칼싱크 가사 오버레이 구현
 - Chrome Extension + Python 브릿지 서버 + WebSocket 아키텍처
