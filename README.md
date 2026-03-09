@@ -257,7 +257,7 @@ class AIResearcher:
 
 ---
 
-## 🎵 Personal Dev Project
+## 🎵 Personal Side Project
 
 <details>
 <summary><b>🎧 VIBE 가사지 - 실시간 가사 싱크 오버레이 </b></summary>
