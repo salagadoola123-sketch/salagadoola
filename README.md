@@ -41,7 +41,7 @@ class AIResearcher:
 
 ### 🔗 Links 
 
-- 🖥️ [GitHub Portfolio](https://github.com/salagadoola123/salagadoola) 
+- 🖥️ [GitHub Portfolio]([https://github.com/salagadoola123/salagadoola](https://github.com/salagadoola123-sketch/salagadoola)) 
 - 📔 [Notion / Study Log](https://www.notion.so/0-23f635cbe75f8012baebd56c88f37113) 
 
 --- 
